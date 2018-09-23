@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.6)  23 SEP 2018 11:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.6)  23 SEP 2018 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,8 +6,8 @@ entering extended mode
 **\input cv3.tex
 (./cv3.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -572,15 +572,15 @@ LaTeX Font Info:    ... okay on input line 13.
 * \textheight=731.23584pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-47.23828pt
+* \topmargin=-45.43198pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=88.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -591,31 +591,29 @@ LaTeX Font Info:    ... okay on input line 13.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 35.
+(Font)              <7> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <5> on input line 35.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2] [3] (./cv3.aux) ) 
+] [2] (./cv3.aux) ) 
 Here is how much of TeX's memory you used:
- 1588 strings out of 494805
- 20222 string characters out of 6178001
- 76598 words of memory out of 5000000
- 4950 multiletter control sequences out of 15000+600000
- 7372 words of font info for 26 fonts, out of 8000000 for 9000
+ 1570 strings out of 494805
+ 20042 string characters out of 6178001
+ 77579 words of memory out of 5000000
+ 4940 multiletter control sequences out of 15000+600000
+ 4636 words of font info for 17 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 23i,4n,28p,494b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/j
-knappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb>
-Output written on cv3.pdf (3 pages, 47748 bytes).
+ 23i,5n,28p,494b,202s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on cv3.pdf (2 pages, 52414 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
