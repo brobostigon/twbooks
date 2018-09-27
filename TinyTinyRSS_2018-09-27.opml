@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Thu, 27 Sep 2018 07:02:40 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="Tiny Tiny RSS Feed Export">
+      <outline text="Android">
+        <outline type="rss" text="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.googleblog.com/"/>
+        <outline type="rss" text="Benno's Blog" xmlUrl="http://benno.id.au/blog/feed/" htmlUrl="http://benno.id.au/blog/"/>
+        <outline type="rss" text="c't uplink" xmlUrl="http://download.heise.de/ct/podcast/ctuplink.rss" htmlUrl="https://www.heise.de/ct/uplink/ctuplink.rss"/>
+        <outline type="rss" text="Hello Android" xmlUrl="http://www.helloandroid.com/rss.xml" htmlUrl="http://www.helloandroid.com"/>
+      </outline>
+      <outline text="Comics">
+        <outline type="rss" text="Cardboard Crack - Magic: The Gathering Comics" xmlUrl="http://cardboard-crack.tumblr.com/rss" htmlUrl="http://cardboard-crack.com/"/>
+      </outline>
+      <outline text="Listen Subscriptions">
+        <outline type="rss" text="Click" xmlUrl="http://downloads.bbc.co.uk/podcasts/worldservice/digitalp/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/p002w6r2"/>
+        <outline type="rss" text="Friday Night Comedy from BBC Radio 4" xmlUrl="http://downloads.bbc.co.uk/podcasts/radio4/fricomedy/rss.xml" htmlUrl="http://www.bbc.co.uk/programmes/p02pc9pj"/>
+        <outline type="rss" text="Full Circle Magazine" xmlUrl="http://fullcirclemagazine.org/feed/" htmlUrl="https://fullcirclemagazine.org"/>
+        <outline type="rss" text="The Humanist Hour" xmlUrl="http://feeds.feedburner.com/HNN_Podcast" htmlUrl="http://www.americanhumanist.org/hnn/podcast"/>
+      </outline>
+      <outline text="podcasts">
+        <outline type="rss" text="Bad Voltage" xmlUrl="http://www.badvoltage.org/feed/mp3/" htmlUrl="https://www.badvoltage.org"/>
+      </outline>
+      <outline text="Politics">
+        <outline type="rss" text="BBC News - Politics" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+        <outline type="rss" text="BBC News - Politics" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/politics/rss.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+        <outline type="rss" text="BBC News - UK Politics" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/uk_news/politics/rss.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+      </outline>
+      <outline text="SECOND LIFE">
+        <outline type="rss" text="Second Life Grid Status Reports" xmlUrl="http://status.secondlifegrid.net/feed/" htmlUrl="https://status.secondlifegrid.net"/>
+      </outline>
+      <outline text="Tech">
+</outline>
+      <outline text="technology">
+        <outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
+      </outline>
+      <outline text="Virtual worlds">
+        <outline type="rss" text="Hypergrid Business" xmlUrl="http://www.hypergridbusiness.com/feed/" htmlUrl="http://www.hypergridbusiness.com"/>
+      </outline>
+      <outline type="rss" text=":: gia’s blog ::" xmlUrl="http://www.giagia.co.uk/feed/" htmlUrl="http://www.giagia.co.uk"/>
+      <outline type="rss" text="A Selection of Especially Stupid Benefit Sanctions" xmlUrl="http://stupidsanctions.tumblr.com/rss" htmlUrl="http://stupidsanctions.tumblr.com/"/>
+      <outline type="rss" text="AGE OF AUTISM" xmlUrl="http://feeds.feedburner.com/ageofautism" htmlUrl="http://www.ageofautism.com/"/>
+      <outline type="rss" text="Alastair Campbell" xmlUrl="http://www.alastaircampbell.org/feed" htmlUrl="https://alastaircampbell.org"/>
+      <outline type="rss" text="Android Developers Backstage" xmlUrl="http://androidbackstage.blogspot.com/feeds/posts/default" htmlUrl="http://androidbackstage.blogspot.com/"/>
+      <outline type="rss" text="Android Tablets" xmlUrl="http://www.androidtablets.ca/?feed=rss2" htmlUrl="http://www.androidtablets.ca"/>
+      <outline type="rss" text="AndroidSPIN" xmlUrl="http://feeds.feedburner.com/androidspin/feed" htmlUrl="https://androidspin.com"/>
+      <outline type="rss" text="Backstage.bbc.co.uk blog" xmlUrl="http://www.bbc.co.uk/blogs/bbcbackstage/rss.xml" htmlUrl="http://www.bbc.co.uk/blogs/bbcbackstage/"/>
+      <outline type="rss" text="BBC News - Technology" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+      <outline type="rss" text="BBC News | Programmes | Click | UK Edition" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/programmes/click_online/rss.xml" htmlUrl="http://news.bbc.co.uk/go/rss/-/1/hi/programmes/click_online/default.stm"/>
+      <outline type="rss" text="CafeNinja - All Things Geek and Caffeine" xmlUrl="http://cafeninja.blogspot.com/feeds/posts/default" htmlUrl="http://cafeninja.blogspot.com/"/>
+      <outline type="rss" text="Chromium Blog" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
+      <outline type="rss" text="Clients From Hell" xmlUrl="http://clientsfromhell.tumblr.com/rss" htmlUrl="https://clientsfromhell.net/"/>
+      <outline type="rss" text="Dilbert Daily Strip" xmlUrl="http://feeds.dilbert.com/DilbertDailyStrip" htmlUrl="http://dilbert.com"/>
+      <outline type="rss" text="Droid Basement" xmlUrl="http://droidbasement.com/db-blog/?feed=rss2" htmlUrl="http://droidbasement.com/db-blog"/>
+      <outline type="rss" text="electronics, etc." xmlUrl="http://c55.me/blog/?feed=rss2" htmlUrl="http://c55.me/blog"/>
+      <outline type="rss" text="Fix6.net - IPv6 news and information" xmlUrl="http://www.fix6.net/feed/" htmlUrl="http://www.fix6.net"/>
+      <outline type="rss" text="Gear &amp; Gadgets – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/gadgets/" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="Gmail Blog" xmlUrl="http://gmailblog.blogspot.com/atom.xml" htmlUrl="https://www.blog.google/products/gmail/"/>
+      <outline type="rss" text="Google Chrome Releases" xmlUrl="http://feeds.feedburner.com/GoogleChromeReleases" htmlUrl="http://chromereleases.googleblog.com/"/>
+      <outline type="rss" text="Google Mobile Blog" xmlUrl="http://googlemobile.blogspot.com/atom.xml" htmlUrl="http://googlemobile.blogspot.com/"/>
+      <outline type="rss" text="Hacio'r Iaith" xmlUrl="http://haciaith.com/feed/" htmlUrl="https://haciaith.cymru"/>
+      <outline type="rss" text="Haiku Files - Haiku Development" xmlUrl="http://haiku-files.org/haiku/development/rss" htmlUrl="http://www.haiku-files.org/"/>
+      <outline type="rss" text="Haiku IPv6 - GSoC 2010 blog" xmlUrl="http://haikuipv6.blogspot.com/feeds/posts/default" htmlUrl="http://haikuipv6.blogspot.com/"/>
+      <outline type="rss" text="Haiku Project" xmlUrl="https://www.haiku-os.org/index.xml" htmlUrl="https://www.haiku-os.org/"/>
+      <outline type="rss" text="http://knightwise.com/" xmlUrl="http://knightwise.com/feed/" htmlUrl="http://knightwise.com"/>
+      <outline type="rss" text="In Limbo" xmlUrl="http://thrine-may.tumblr.com/rss/" htmlUrl="http://thrine-may.tumblr.com/"/>
+      <outline type="rss" text="Knightwise.com" xmlUrl="http://feeds.feedburner.com/knightwisecom" htmlUrl="http://knightwise.com"/>
+      <outline type="rss" text="Launchpad blog" xmlUrl="http://blog.launchpad.net/feed" htmlUrl="http://blog.launchpad.net"/>
+      <outline type="rss" text="Law &amp; Disorder – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/tech-policy/" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="Lineage OS" xmlUrl="http://lineageos.org/feed.xml" htmlUrl="http://lineageos.org/"/>
+      <outline type="rss" text="LinuxInsight" xmlUrl="http://feeds.linuxinsight.com/linuxportal" htmlUrl="http://linuxinsight.com"/>
+      <outline type="rss" text="Living with IPv6" xmlUrl="http://www.personal.psu.edu/dvm105/blogs/ipv6/index.xml" htmlUrl="http://www.personal.psu.edu/dvm105/blogs/ipv6/"/>
+      <outline type="rss" text="Mark Shuttleworth" xmlUrl="http://www.markshuttleworth.com/feed" htmlUrl="http://www.markshuttleworth.com"/>
+      <outline type="rss" text="mustard blogs" xmlUrl="http://mustard.macno.org/blog/feed" htmlUrl="http://mustard.macno.org/blog"/>
+      <outline type="rss" text="NetBSD Blog" xmlUrl="http://blog.netbsd.org/tnf/feed/entries/atom" htmlUrl="http://blog.netbsd.org/tnf/"/>
+      <outline type="rss" text="Nexus 7 Tools" xmlUrl="http://nexusrom.tumblr.com/rss" htmlUrl="http://nexusrom.tumblr.com/"/>
+      <outline type="rss" text="Nitrokey - Secure your digital life" xmlUrl="https://www.nitrokey.com/rss.xml" htmlUrl="https://www.nitrokey.com/frontpage"/>
+      <outline type="rss" text="Nokiapoweruser" xmlUrl="http://www.nokiapoweruser.com/feed/" htmlUrl="https://nokiapoweruser.com"/>
+      <outline type="rss" text="Official Google Reader Blog" xmlUrl="http://googlereader.blogspot.com/atom.xml" htmlUrl="http://googlereader.blogspot.com/"/>
+      <outline type="rss" text="Open Source – Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="OpenBSD Journal" xmlUrl="http://undeadly.org/cgi?action=rss" htmlUrl="http://undeadly.org/"/>
+      <outline type="rss" text="Opensimulator Community Conference 2017" xmlUrl="http://conference.opensimulator.org/2017/feed/" htmlUrl="http://conference.opensimulator.org/2017"/>
+      <outline type="rss" text="OSNews" xmlUrl="http://osnews.com/feed/topic/73" htmlUrl="http://www.osnews.com/"/>
+      <outline type="rss" text="OSNews" xmlUrl="http://www.osnews.com/files/recent.xml" htmlUrl="http://www.osnews.com"/>
+      <outline type="rss" text="OSNews" xmlUrl="http://osnews.com/feed/topic/20" htmlUrl="http://www.osnews.com/"/>
+      <outline type="rss" text="ownCloud Planet" xmlUrl="https://owncloud.org/blogfeed" htmlUrl="https://owncloud.org"/>
+      <outline type="rss" text="paizo.com Recent Threads in Pathfinder Playtest" xmlUrl="http://paizo.com/community/forums/pathfinder/playtest&amp;xml=atom" htmlUrl="http://paizo.com/community/forums/pathfinder/playtest"/>
+      <outline type="rss" text="Planet Debian" xmlUrl="http://planet.debian.org/atom.xml" htmlUrl="https://planet.debian.org/"/>
+      <outline type="rss" text="Privacy.org - The Source for News, Information, and Action" xmlUrl="http://privacy.org/index.xml" htmlUrl="http://privacy.org/"/>
+      <outline type="rss" text="Private Eye RSS" xmlUrl="http://www.private-eye.co.uk/rss/rss.php" htmlUrl="http://www.private-eye.co.uk/"/>
+      <outline type="rss" text="Recent Commits to mycroft-core:master" xmlUrl="https://github.com/MycroftAI/mycroft-core/commits/master.atom" htmlUrl="https://github.com/MycroftAI/mycroft-core/commits/master"/>
+      <outline type="rss" text="Roaring Mouse" xmlUrl="http://roaringmousepr.com/feed/" htmlUrl="http://roaringmousepr.com"/>
+      <outline type="rss" text="Russell Howard's Good News" xmlUrl="http://www.bbc.co.uk/blogs/russellhoward/atom.xml" htmlUrl="http://www.bbc.co.uk/blogs/russellhoward/"/>
+      <outline type="rss" text="Service Updates topics" xmlUrl="http://community.giffgaff.com/napa/rss/board?board.id=Notice_board" htmlUrl="https://community.giffgaff.com/t5/Service-Updates/bd-p/Notice_board"/>
+      <outline type="rss" text="The fabulous world of bras" xmlUrl="http://the-fabulous-world-of-bras1.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://the-fabulous-world-of-bras1.blogspot.com/"/>
+      <outline type="rss" text="The Gadget Show" xmlUrl="http://feeds.feedburner.com/TheGadgetShow" htmlUrl="http://gadgetshow.channel5.com/"/>
+      <outline type="rss" text="The Game Mechanic" xmlUrl="http://rpgmechanic.blogspot.com/feeds/posts/default" htmlUrl="http://rpgmechanic.blogspot.com/"/>
+      <outline type="rss" text="The ongoing struggle" xmlUrl="http://strugglers.net/~andy/blog/feed/" htmlUrl="http://strugglers.net/~andy/blog"/>
+      <outline type="rss" text="The Tor Blog blogs" xmlUrl="https://blog.torproject.org/blog/feed" htmlUrl="https://blog.torproject.org/blog/feed"/>
+      <outline type="rss" text="Ubuntu Insights" xmlUrl="http://www.canonical.com/rss.xml" htmlUrl="https://insights.ubuntu.com"/>
+      <outline type="rss" text="Ubuntu Podcast" xmlUrl="http://ubuntupodcast.org/feed/" htmlUrl="http://ubuntupodcast.org"/>
+      <outline type="rss" text="WebPigeon's Blog" xmlUrl="http://blog.webpigeon.me.uk/rss/" htmlUrl="http://blog.webpigeon.me.uk"/>
+      <outline type="rss" text="xkcd.com" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      <outline type="rss" text="Xubuntu" xmlUrl="http://release-blog.ubuntu.com/?feed=rss2" htmlUrl="https://insights.ubuntu.com"/>
+    </outline>
+    <outline type="rss" text="AdultWork.com - RSS Feed (D0C77A69-90CA-44D0-B533-49D3690DD4DF)" xmlUrl="https://www.adultwork.com/RSS.asp?D0C77A69-90CA-44D0-B533-49D3690DD4DF" htmlUrl="https://www.adultwork.com/Home.asp"/>
+    <outline type="rss" text="Brexitcast" xmlUrl="https://podcasts.files.bbci.co.uk/p05299nl.rss" htmlUrl="http://www.bbc.co.uk/programmes/p05299nl"/>
+    <outline type="rss" text="Neptune's Philosophy" xmlUrl="https://neptunespeaks.wordpress.com/?feed=rss" htmlUrl="https://neptunespeaks.wordpress.com"/>
+    <outline type="rss" text="paizo.com Recent Blog Posts in Pathfinder Playtest" xmlUrl="http://paizo.com/community/blog/tags/pathfinderRoleplayingGame/playtest&amp;xml=atom" htmlUrl="http://paizo.com/community/blog/tags/pathfinderRoleplayingGame/playtest"/>
+    <outline type="rss" text="paizo.com Recent Comments on Pathfinder Playtest Preorder Update" xmlUrl="http://paizo.com/community/blog/v5748dyo5lkzc&amp;xml=atom?Pathfinder-Playtest-Preorder-Update" htmlUrl="http://paizo.com/community/blog/v5748dyo5lkzc?Pathfinder-Playtest-Preorder-Update"/>
+    <outline type="rss" text="paizo.com Recent Posts in Pathfinder Playtest Preorder Updates" xmlUrl="http://paizo.com/threads/rzs2v9kj&amp;xml=atom?Pathfinder-Playtest-Preorder-Updates" htmlUrl="http://paizo.com/threads/rzs2v9kj?Pathfinder-Playtest-Preorder-Updates"/>
+    <outline type="rss" text="paizo.com Recent Threads in Pathfinder Playtest" xmlUrl="http://paizo.com/community/forums/pathfinder/playtest/posts&amp;xml=atom" htmlUrl="http://paizo.com/community/forums/pathfinder/playtest"/>
+    <outline type="rss" text="Pink Tape" xmlUrl="http://pinktape.co.uk/feed/" htmlUrl="http://www.pinktape.co.uk"/>
+    <outline type="rss" text="taylorworld.one" xmlUrl="https://taylorworld.one/?q=rss.xml" htmlUrl="https://taylorworld.one"/>
+    <outline type="rss" text="[Unknown]" xmlUrl="https://bugzilla.kernel.org/show_bug.cgi?ctype=xml&amp;id=199035"/>
+    <outline text="tt-rss-prefs" schema-version="133">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="true"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="true"/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="60"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="USER_CSS_THEME" value="default.php"/>
+      <outline pref-name="USER_LANGUAGE" value="auto"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="unread"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="133"/>
+    <outline text="tt-rss-filters" schema-version="133"/>
+  </body>
+</opml>
