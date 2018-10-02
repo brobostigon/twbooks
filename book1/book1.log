@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.6)  25 SEP 2018 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.6)  28 SEP 2018 18:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -790,14 +790,14 @@ Here is how much of TeX's memory you used:
  7010 multiletter control sequences out of 15000+600000
  9921 words of font info for 37 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 41i,10n,28p,517b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,28p,513b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.6
 00pk> </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx120
 0.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on book1.pdf (1 page, 47268 bytes).
+Output written on book1.pdf (1 page, 47298 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
