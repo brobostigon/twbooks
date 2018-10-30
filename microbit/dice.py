@@ -1,10 +1,12 @@
 import random
 import speech
 import os
-from collections import namedtuple
+import radio
 
+from collections import namedtuple
 from microbit import *
 
+radio.on()
 Die = namedtuple('Die', ['sides', 'bitmap'])
 
 dice = (
@@ -16,8 +18,6 @@ dice = (
     Die(12, '90999:90009:90999:90900:90999'),
     Die(20, '99999:00909:99999:90000:99900'),
 )
-
-
 def roll():
     steps = [
         Image('00000:00990:00090:00000:00000'),
@@ -31,7 +31,6 @@ def roll():
     ]
     display.show(steps, delay=100)
     display.show(steps, delay=100)
-
 
 index = 0
 redraw = True
@@ -47,9 +46,15 @@ while True:
         index %= len(dice)
         redraw = True
     
-    elif button_b.is_pressed():
+    if button_b.is_pressed():
         roll()
         result = random.choice(range(1, die.sides + 1))
         display.scroll(str(result))
         speech.say(str(result))
+        radio.send(str(result))
+        #with open('result.txt', 'w') as results:
+        #results.write(str(result))
         redraw = True
+    if pin0.is_touched():
+        incoming = radio.receive()
+        display.scroll(str(incoming))
