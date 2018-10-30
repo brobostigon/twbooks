@@ -1,4 +1,6 @@
 import random
+import speech
+import os
 from collections import namedtuple
 
 from microbit import *
@@ -49,4 +51,5 @@ while True:
         roll()
         result = random.choice(range(1, die.sides + 1))
         display.scroll(str(result))
+        speech.say(str(result))
         redraw = True
