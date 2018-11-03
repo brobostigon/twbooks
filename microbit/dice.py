@@ -1,8 +1,8 @@
 import random
 import speech
-#import os
+# import os
 import radio
-#import io
+# import io
 
 from collections import namedtuple
 from microbit import *
@@ -54,8 +54,9 @@ while True:
         speech.say(str(result))
         radio.send(str(result))
         with open('result1.txt', 'w') as results:
-            #results.seek(2)
+            # results.seek(2)
             results.write(str(result))
+            results.close()
         redraw = True
     if pin0.is_touched():
         incoming = radio.receive()
