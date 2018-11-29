@@ -8,6 +8,7 @@ from collections import namedtuple
 from microbit import *
 
 radio.on()
+
 Die = namedtuple('Die', ['sides', 'bitmap'])
 
 dice = (
@@ -36,12 +37,18 @@ def roll():
 index = 0
 redraw = True
 while True:
+    
     if redraw:
         die = dice[index]
         display.show(Image(die.bitmap))
         sleep(200)
         redraw = False
-
+        
+    # if accelerometer.is_gesture("face down"):
+    #    index -= 1
+    #    index %= len(dice)
+    #    redraw = True
+        
     if button_a.is_pressed():
         index -= 1
         index %= len(dice)
@@ -54,7 +61,7 @@ while True:
         speech.say(str(result))
         radio.send(str(result))
         with open('result1.txt', 'w') as results:
-            # results.seek(2)
+            # results.seek(0, 2)
             results.write(str(result))
             results.close()
         redraw = True
