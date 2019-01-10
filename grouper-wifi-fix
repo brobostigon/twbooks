@@ -1,0 +1,7 @@
+### Manually disable Wi-Fi from the Settings or System UI beforehand.
+toybox ps -A | grep wpa_supplicant # Make sure wpa_supplicant is not running.
+ls -l /data/misc/wifi/wpa_supplicant.conf # Remember the user, group and permissions.
+toybox sed -i 's/^pmf=1/pmf=0/' /data/misc/wifi/wpa_supplicant.conf # Replacing "pmf=1" with "pmf=0".
+chown wifi.wifi /data/misc/wifi/wpa_supplicant.conf # Is this correct?
+chmod 660 /data/misc/wifi/wpa_supplicant.conf # Is this correct?
+### Re-enable Wi-Fi.
