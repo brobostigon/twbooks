@@ -1,2 +1,6 @@
 select * from treasure
 \q
+select * from treasure where level <= 2 order by random() limit 5
+select * from treasure where level <= 2 order by random() limit 6
+select * from treasure where level <= 2 order by random() limit 6
+\q
