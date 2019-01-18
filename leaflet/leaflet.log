@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  18 JAN 2019 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  18 JAN 2019 20:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,25 +432,6 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(/usr/share/texlive/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
-Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
- pages
-
-(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
-Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
-\sc@wm@hcenter=\skip46
-\sc@wm@vcenter=\skip47
-\sc@wm@fontsize=\skip48
-)
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -704,36 +685,27 @@ File: alchemist.jpg Graphic file (type jpg)
 Package pdftex.def Info: alchemist.jpg  used on input line 18.
 (pdftex.def)             Requested size: 146.03932pt x 82.05301pt.
 
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <142.26378> not available
-(Font)              size <24.88> substituted on input line 42.
-
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./alchemist.jpg>]
-(./leaflet.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 117.38377pt have occurred.
-
- ) 
+(./leaflet.aux) ) 
 Here is how much of TeX's memory you used:
- 3240 strings out of 494805
- 42102 string characters out of 6177999
- 92201 words of memory out of 5000000
- 6523 multiletter control sequences out of 15000+600000
- 5574 words of font info for 20 fonts, out of 8000000 for 9000
+ 3138 strings out of 494805
+ 40264 string characters out of 6177999
+ 90806 words of memory out of 5000000
+ 6435 multiletter control sequences out of 15000+600000
+ 5275 words of font info for 19 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 41i,10n,26p,310b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.6
-00pk> </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx120
-0.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on leaflet.pdf (1 page, 106957 bytes).
+ 41i,6n,25p,310b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jknappe
+n/ec/tcrm1200.600pk> </home/ptaylor/.texlive2017/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/tcbx1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb>
+Output written on leaflet.pdf (1 page, 98525 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 18 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
