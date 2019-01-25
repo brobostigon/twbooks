@@ -4,3 +4,72 @@ select * from treasure where level <= 2 order by random() limit 5
 select * from treasure where level <= 2 order by random() limit 6
 select * from treasure where level <= 2 order by random() limit 6
 \q
+select * from treasure where level <= 2 order by random() limit 6
+\l
+\c customerdb
+\d
+select * from customers
+select * from customers
+select * from customers
+select first name, email from customers
+select "first name", email from customers
+select "first name", surname, email from customers
+select "first name", surname, email, "mobile number" from customers
+\q
+\l
+\c customerdb
+select "first name", surname, email, "mobile number" from customers
+\d
+select "first name", "middle name", surname, email, "mobile number" from customers
+\l
+select "first name", "middle name", surname, email, "mobile number" from customers
+\q
+\c customerdb
+select "first name", "middle name", surname, email, "mobile number" from customers
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\q
+\l
+\d
+\c customerdb
+\d
+select * from products
+select * from products
+\d
+select * from products
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\h insert
+\? insert
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\d
+\d
+\l
+\d
+\q
+\c customerdb
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select * from products
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+
+\d
+\d
+\l
+\d
+select "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select * from customers
+select * from customers
+\d
+select * from orders
+select "custnum", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select "cust-num", "first name", "middle name", surname from customers
+select * from orders
+\d
+\h
+\h insert
+select "cust-num", "first name", "middle name", surname from customers
+select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+select * from products
+select * from orders
+select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\q
