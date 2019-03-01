@@ -1,0 +1,252 @@
+PCGVERSION:2.0
+
+# System Information
+CAMPAIGN:Core Rulebook v2
+VERSION:6.08.00 RC3
+ROLLMETHOD:3|EXPRESSION:roll(4,6,top(3))
+PURCHASEPOINTS:N
+CHARACTERTYPE:PC
+PREVIEWSHEET:Standard.htm.ftl
+POOLPOINTS:0
+POOLPOINTSAVAIL:-1
+GAMEMODE:Pathfinder_2
+TABLABEL:0
+AUTOSPELLS:Y
+USEHIGHERKNOWN:N
+USEHIGHERPREPPED:N
+LOADCOMPANIONS:N
+USETEMPMODS:Y
+AUTOSORTGEAR:Y
+SKILLSOUTPUTORDER:0
+SKILLFILTER:2
+IGNORECOST:N
+ALLOWDEBT:N
+AUTORESIZEGEAR:Y
+
+# Character Bio
+CHARACTERNAME:brobostigon
+TABNAME:
+PLAYERNAME:
+HEIGHT:0
+WEIGHT:0
+AGE:0
+GENDER:Male
+HANDED:Left
+SKINCOLOR:
+EYECOLOR:
+HAIRCOLOR:
+HAIRSTYLE:
+LOCATION:
+CITY:
+BIRTHDAY:
+BIRTHPLACE:
+PERSONALITYTRAIT1:
+PERSONALITYTRAIT2:
+SPEECHPATTERN:
+PHOBIAS:
+INTERESTS:
+CATCHPHRASE:
+PORTRAIT:
+
+# Character Attributes
+STAT:STR|SCORE:9
+STAT:DEX|SCORE:13
+STAT:CON|SCORE:13
+STAT:INT|SCORE:14
+STAT:WIS|SCORE:13
+STAT:CHA|SCORE:10
+ALIGN:CG
+RACE:Elf
+
+# Character Class(es)
+CLASS:Alchemist|LEVEL:1|SKILLPOOL:0|SPELLBASE:None|CANCASTPERDAY:
+CLASSABILITIESLEVEL:Alchemist=1|HITPOINTS:0|SKILLSGAINED:0|SKILLSREMAINING:0
+
+# Character Experience
+EXPERIENCE:0
+EXPERIENCETABLE:Default
+
+# Character Templates
+TEMPLATESAPPLIED:[NAME:Bonus Languages ~ Elf]
+TEMPLATESAPPLIED:[NAME:Automatic Languages ~ Elf]
+TEMPLATESAPPLIED:[NAME:Size ~ M]
+TEMPLATESAPPLIED:[NAME:1st Level Intelligence Score|APPLIEDTO:INT 18]
+TEMPLATESAPPLIED:[NAME:INT 18|CHOSENTEMPLATE:[NAME:Language +3]]
+TEMPLATESAPPLIED:[NAME:Language +3]
+
+# Character Region
+REGION:None
+
+# Character Skills
+SKILL:Acrobatics|OUTPUTORDER:1|
+SKILL:Acrobatics (Balance)|OUTPUTORDER:2|
+SKILL:Acrobatics (Escape)|OUTPUTORDER:3|
+SKILL:Acrobatics (Grab Edge)|OUTPUTORDER:4|
+SKILL:Acrobatics (Maintain Balance)|OUTPUTORDER:5|
+SKILL:Acrobatics (Maneuver in Flight)|OUTPUTORDER:6|
+SKILL:Acrobatics (Squeeze)|OUTPUTORDER:7|
+SKILL:Acrobatics (Tumble Through)|OUTPUTORDER:8|
+SKILL:Arcana|OUTPUTORDER:9|
+SKILL:Arcana (Borrow an Arcane Spell)|OUTPUTORDER:10|
+SKILL:Arcana (Identify Magic)|OUTPUTORDER:11|
+SKILL:Arcana (Learn an Arcane Spell)|OUTPUTORDER:12|
+SKILL:Arcana (Read Magic)|OUTPUTORDER:13|
+SKILL:Arcana (Recall Knowledge)|OUTPUTORDER:14|
+SKILL:Athletics|OUTPUTORDER:15|
+SKILL:Athletics (Break Grapple)|OUTPUTORDER:16|
+SKILL:Athletics (Break Open)|OUTPUTORDER:17|
+SKILL:Athletics (Climb)|OUTPUTORDER:18|
+SKILL:Athletics (Disarm)|OUTPUTORDER:19|
+SKILL:Athletics (Grapple)|OUTPUTORDER:20|
+SKILL:Athletics (High Jump)|OUTPUTORDER:21|
+SKILL:Athletics (Long Jump)|OUTPUTORDER:22|
+SKILL:Athletics (Shove)|OUTPUTORDER:23|
+SKILL:Athletics (Swim)|OUTPUTORDER:24|
+SKILL:Athletics (Trip)|OUTPUTORDER:25|
+SKILL:Crafting|OUTPUTORDER:26|
+SKILL:Crafting (Craft)|OUTPUTORDER:27|
+SKILL:Crafting (Identify Alchemy)|OUTPUTORDER:28|
+SKILL:Crafting (Repair)|OUTPUTORDER:29|
+SKILL:Deception|OUTPUTORDER:30|
+SKILL:Deception (Create a Diversion)|OUTPUTORDER:31|
+SKILL:Deception (Feint)|OUTPUTORDER:32|
+SKILL:Deception (Impersonate)|OUTPUTORDER:33|
+SKILL:Deception (Lie)|OUTPUTORDER:34|
+SKILL:Diplomacy|OUTPUTORDER:35|
+SKILL:Diplomacy (Gather Information)|OUTPUTORDER:36|
+SKILL:Diplomacy (Make an Impression)|OUTPUTORDER:37|
+SKILL:Diplomacy (Request)|OUTPUTORDER:38|
+SKILL:Intimidation|OUTPUTORDER:39|
+SKILL:Intimidation (Coerce)|OUTPUTORDER:40|
+SKILL:Intimidation (Demoralize)|OUTPUTORDER:41|
+SKILL:Lore|OUTPUTORDER:42|
+SKILL:Lore (Practice a Trade)|OUTPUTORDER:43|
+SKILL:Lore (Recall Knowledge)|OUTPUTORDER:44|
+SKILL:Medicine|OUTPUTORDER:45|
+SKILL:Medicine (Administer First Aid)|OUTPUTORDER:46|
+SKILL:Medicine (Treat Disease)|OUTPUTORDER:47|
+SKILL:Medicine (Treat Poison)|OUTPUTORDER:48|
+SKILL:Nature|OUTPUTORDER:49|
+SKILL:Nature (Command an Animal)|OUTPUTORDER:50|
+SKILL:Nature (Handle an Animal)|OUTPUTORDER:51|
+SKILL:Nature (Identify Magic)|OUTPUTORDER:52|
+SKILL:Nature (Learn a Primal Spell)|OUTPUTORDER:53|
+SKILL:Nature (Recall Knowledge)|OUTPUTORDER:54|
+SKILL:Occultism|OUTPUTORDER:55|
+SKILL:Occultism (Identify Magic)|OUTPUTORDER:56|
+SKILL:Occultism (Learn an Occult Spell)|OUTPUTORDER:57|
+SKILL:Occultism (Read Esoterica)|OUTPUTORDER:58|
+SKILL:Occultism (Recall Knowledge)|OUTPUTORDER:59|
+SKILL:Performance|OUTPUTORDER:60|
+SKILL:Performance (Perform)|OUTPUTORDER:61|
+SKILL:Performance (Stage a Performance)|OUTPUTORDER:62|
+SKILL:Religion|OUTPUTORDER:63|
+SKILL:Religion (Identify Magic)|OUTPUTORDER:64|
+SKILL:Religion (Learn a Divine Spell)|OUTPUTORDER:65|
+SKILL:Religion (Read Scripture)|OUTPUTORDER:66|
+SKILL:Religion (Recall Knowledge)|OUTPUTORDER:67|
+SKILL:Society|OUTPUTORDER:68|
+SKILL:Society (Create Forgery)|OUTPUTORDER:69|
+SKILL:Society (Decipher Writing)|OUTPUTORDER:70|
+SKILL:Society (Recall Knowledge)|OUTPUTORDER:71|
+SKILL:Society (Subsist on the Streets)|OUTPUTORDER:72|
+SKILL:Stealth|OUTPUTORDER:73|
+SKILL:Stealth (Conceal an Object)|OUTPUTORDER:74|
+SKILL:Stealth (Hide)|OUTPUTORDER:75|
+SKILL:Stealth (Sneak)|OUTPUTORDER:76|
+SKILL:Survival|OUTPUTORDER:77|
+SKILL:Survival (Cover Tracks)|OUTPUTORDER:78|
+SKILL:Survival (Sense Direction)|OUTPUTORDER:79|
+SKILL:Survival (Survive in the Wild)|OUTPUTORDER:80|
+SKILL:Survival (Track)|OUTPUTORDER:81|
+SKILL:Thievery|OUTPUTORDER:82|
+SKILL:Thievery (Disable a Device)|OUTPUTORDER:83|
+SKILL:Thievery (Palm an Object)|OUTPUTORDER:84|
+SKILL:Thievery (Pick a Lock)|OUTPUTORDER:85|
+SKILL:Thievery (Steal an Object)|OUTPUTORDER:86|
+
+# Character Languages
+LANGUAGE:Celestial|LANGUAGE:Common|LANGUAGE:Elven|LANGUAGE:Gnomish|LANGUAGE:Goblin
+
+# Character Feats
+FEATPOOL:0.0
+
+# Character Abilities
+ABILITY:Ancestry Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Ancestry Ability Boost ~ Con +2|TYPE:Ancestry Ability Boost.Ancestry Ability Boost Con
+USERPOOL:Ancestry Ability Boost|POOLPOINTS:0.0
+ABILITY:Ancestry Bonus Language|TYPE:NORMAL|CATEGORY:Language|KEY:Ancestry Language Support ~ Celestial|TYPE:Ancestry Bonus Language.Spoken.Uncommon|DESC:Angels
+ABILITY:Ancestry Bonus Language|TYPE:NORMAL|CATEGORY:Language|KEY:Ancestry Language Support ~ Gnomish|TYPE:Ancestry Bonus Language.Spoken.Common|DESC:Gnomes
+ABILITY:Ancestry Bonus Language|TYPE:NORMAL|CATEGORY:Language|KEY:Ancestry Language Support ~ Goblin|TYPE:Ancestry Bonus Language.Spoken.Common|DESC:Goblins, hobgoblins, bugbears
+USERPOOL:Ancestry Bonus Language|POOLPOINTS:0.0
+ABILITY:Ancestry Feats|TYPE:NORMAL|CATEGORY:Ancestry Feat|KEY:ANCESTRAL LONGEVITY|TYPE:Elf Ancestry Feat.Ancestry Feat|DESC:You have accumulated a vast array of lived knowledge over your long life. During your daily preparations (see page 317), you can reflect upon your life experiences to become trained in one skill of your choice. This proficiency lasts until you prepare again. More about skills and proficiency can be found on page 142.
+USERPOOL:Ancestry Feats|POOLPOINTS:0.0
+ABILITY:Background Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Background Ability Boost ~ Int +2|TYPE:Background Ability Boost.Background Ability Boost Int
+USERPOOL:Background Ability Boost|POOLPOINTS:0.0
+ABILITY:Background Ability Boost Constitution or Charisma|TYPE:NORMAL|CATEGORY:Ability|KEY:Background Ability Boost ~ Cha +2|TYPE:Background Ability Boost.Background Ability Boost Cha
+USERPOOL:Background Ability Boost Constitution or Charisma|POOLPOINTS:0.0
+ABILITY:Backgrounds|TYPE:NORMAL|CATEGORY:Background|KEY:Barkeep Background|TYPE:Display.Background|DESC:&lbracket;Skills not Implemented yet&rbracket;You have five specialties&colon; hefting barrels, polishing steins, drinking, drinking, and drinking. You ran or worked in a bar, where you learned how to hold your liquor and rowdily socialize. Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost. You gain the Hobnobber skill feat, and you're trained in the Alcohol Lore skill.
+USERPOOL:Backgrounds|POOLPOINTS:0.0
+ABILITY:Class Feats|TYPE:NORMAL|CATEGORY:Class Feat|KEY:SMOKE BOMB|TYPE:Alchemist Class Feat.Class Feat|DESC:FREQUENCY - once per round|DESC:TRIGGER - You craft an alchemical bomb using the Quick Alchemy action.|DESC:You cause the bomb to create a cloud of thick smoke in addition to its normal effects. When thrown, it creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of target's space (or the space in which the bomb lands) the cloud is centered on. All creatures within that area are concealed (see page 302). The smoke lasts for 1 minute or until dissipated with a strong wind.
+USERPOOL:Class Feats|POOLPOINTS:0.0
+ABILITY:Level 01 Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Level 01 Ability Boost ~ Con +2|TYPE:Level 01 Ability Boost.Level 1 Ability Boost Con
+ABILITY:Level 01 Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Level 01 Ability Boost ~ Dex +2|TYPE:Level 01 Ability Boost.Level 1 Ability Boost Dex
+ABILITY:Level 01 Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Level 01 Ability Boost ~ Int +2|TYPE:Level 01 Ability Boost.Level 1 Ability Boost Int
+ABILITY:Level 01 Ability Boost|TYPE:NORMAL|CATEGORY:Ability|KEY:Level 01 Ability Boost ~ Str +2|TYPE:Level 01 Ability Boost.Level 1 Ability Boost Str
+USERPOOL:Level 01 Ability Boost|POOLPOINTS:0.0
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Arcana|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Arcana.Trained in Arcana
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Crafting|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Crafting.Trained in Crafting
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Lore|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Lore.Trained in Lore
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Medicine|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Medicine.Trained in Medicine
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Nature|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Nature.Trained in Nature
+ABILITY:Trained Skills|TYPE:NORMAL|CATEGORY:Proficiency|KEY:Trained in Society|TYPE:Trained Skill Proficiency.Skill Proficiency.Skill Proficiency Society.Trained in Society
+USERPOOL:Trained Skills|POOLPOINTS:0.0
+
+# Character Weapon proficiencies
+WEAPONPROF:[WEAPON:Blowgun|WEAPON:Clan dagger|WEAPON:Club|WEAPON:Crossbow|WEAPON:Dagger|WEAPON:Dart|WEAPON:Fist|WEAPON:Gauntlet|WEAPON:Hand crossbow|WEAPON:Heavy crossbow]
+WEAPONPROF:[WEAPON:Javelin|WEAPON:Katar|WEAPON:Light Mace|WEAPON:Longspear|WEAPON:Mace|WEAPON:Morningstar|WEAPON:Sickle|WEAPON:Sling|WEAPON:Spear|WEAPON:Staff]
+WEAPONPROF:[WEAPON:Unarmed Strike]
+
+# Character Equipment
+MONEY:104.00
+EQUIPNAME:Alchemist's Tools|OUTPUTORDER:3|COST:60|WT:2.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Formula Book|OUTPUTORDER:4|COST:10|WT:1.0|QUANTITY:1.0|NOTE:
+EQUIPNAME:Hand crossbow|OUTPUTORDER:2|COST:25|WT:0.1|QUANTITY:1.0|NOTE:
+EQUIPNAME:Spear|OUTPUTORDER:1|COST:1.0|WT:0.0|QUANTITY:1.0|NOTE:|CUSTOMIZATION:[BASEITEM:Spear|DATA:NAME=Spear$EQMOD=Spear.Thrown 20]
+EQUIPSET:Default Set|ID:0.1|USETEMPMODS:Y
+EQUIPSET:Primary Hand|ID:0.1.01|VALUE:Spear|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Secondary Hand|ID:0.1.02|VALUE:Hand crossbow|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.03|VALUE:Alchemist's Tools|QUANTITY:1.0|USETEMPMODS:Y
+EQUIPSET:Equipped|ID:0.1.04|VALUE:Formula Book|QUANTITY:1.0|USETEMPMODS:Y
+CALCEQUIPSET:0.1
+
+# Temporary Bonuses
+
+# EquipSet Temp Bonuses
+
+# Character Deity/Domain
+DEITY:Cayden Cailean|DEITYDOMAINS:[DOMAIN:Cities|DOMAIN:Freedom|DOMAIN:Indulgence|DOMAIN:Might]|ALIGNALLOW:|DESC:The Drunken Hero ascended from mortal life on a drunken dare, becoming the god of ale, freedom, and wine.|DEITYFAVWEAP:[WEAPON:Rapier]|DEITYALIGN:CG
+
+# Character Spells Information
+
+# Character Description/Bio/History
+CHARACTERBIO:
+CHARACTERDESC:
+CHARACTERCOMP:
+CHARACTERASSET:
+CHARACTERMAGIC:
+CHARACTERDMNOTES:
+
+# Kits
+
+# Character Master/Follower
+
+# Character Notes Tab
+
+# Age Set Selections
+AGESET:0:0:0:0:0:0:0:0:0:0
+
+# Campaign History
+
+# Suppressed Biography Fields
+SUPPRESSBIOFIELDS:
+
