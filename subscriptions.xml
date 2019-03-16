@@ -1,0 +1,29 @@
+<opml version="2.0">
+	<body>
+		<outline text="Subscriptions" title="Subscriptions">
+			<outline xmlUrl='http://feeds.bbci.co.uk/news/business/rss.xml' />
+<outline xmlUrl='http://feeds.bbci.co.uk/news/science_and_environment/rss.xml' />
+<outline xmlUrl='http://feeds.bbci.co.uk/news/technology/rss.xml' />
+<outline xmlUrl='http://feeds.bbci.co.uk/news/politics/rss.xml' />
+<outline xmlUrl='https://www.osnews.com/feed/' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/index/' />
+<outline xmlUrl='http://newsrss.bbc.co.uk/rss/newsonline_world_edition/uk_news/politics/rss.xml' />
+<outline xmlUrl='http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml' />
+<outline xmlUrl='https://podcasts.files.bbci.co.uk/p05299nl.rss' />
+<outline xmlUrl='http://www.indeed.co.uk/rss?q=&l=Banbury&radius=5&sort=date' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/technology-lab' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/gadgets' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/business' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/science' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/multiverse' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/cardboard' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/open-source' />
+<outline xmlUrl='http://feeds.arstechnica.com/arstechnica/tech-policy' />
+<outline xmlUrl='https://www.debian.org/News/news' />
+<outline xmlUrl='https://www.debian.org/security/dsa' />
+<outline xmlUrl='https://paizo.com/community/forums/pathfinder/second&xml=atom' />
+<outline xmlUrl='https://bits.debian.org//feeds/feed.rss' />
+	
+		</outline>
+	</body>
+</opml>
