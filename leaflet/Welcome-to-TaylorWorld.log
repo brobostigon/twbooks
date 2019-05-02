@@ -1,0 +1,220 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdftex 2018.10.12)  2 MAY 2019 10:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Welcome-to-TaylorWorld.tex
+(./Welcome-to-TaylorWorld.tex
+./Welcome-to-TaylorWorld.tex:1: Undefined control sequence.
+l.1 \includegraphics
+                    [width=7.969cm,height=3.674cm]{Pictures/10000000000003CA...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:3: Undefined control sequence.
+l.3 \textbf
+           {`Announcing TaylorWorld's New Dungeons and Dragons Game.'}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:21: Undefined control sequence.
+l.21 \textbf
+            {Our contact emails are
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:22: Undefined control sequence.
+l.22 }\href
+           {mailto:ptaylor@taylorworld.one}{\emph{\emph{\textbf{ptaylor@tayl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:22: Undefined control sequence.
+l.22 }\href{mailto:ptaylor@taylorworld.one}{\emph
+                                                 {\emph{\textbf{ptaylor@tayl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:22: Undefined control sequence.
+l.22 ...ailto:ptaylor@taylorworld.one}{\emph{\emph
+                                                  {\textbf{ptaylor@taylorwor...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:22: Undefined control sequence.
+l.22 ...aylor@taylorworld.one}{\emph{\emph{\textbf
+                                                  {ptaylor@taylorworld.one}}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:22: Undefined control sequence.
+l.22 ...\textbf{ptaylor@taylorworld.one}}}}\textbf
+                                                  {.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:24: Undefined control sequence.
+l.24 }\href
+           {mailto:yossarian76543@yahoo.co.uk}{\emph{\emph{\textbf{yossarian...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:24: Undefined control sequence.
+l.24 ...f{mailto:yossarian76543@yahoo.co.uk}{\emph
+                                                  {\emph{\textbf{yossarian76...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:24: Undefined control sequence.
+l.24 ...to:yossarian76543@yahoo.co.uk}{\emph{\emph
+                                                  {\textbf{yossarian76543@ya...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:24: Undefined control sequence.
+l.24 ...rian76543@yahoo.co.uk}{\emph{\emph{\textbf
+                                                  {yossarian76543@yahoo.co.u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:24: Undefined control sequence.
+l.24 ...xtbf{yossarian76543@yahoo.co.uk}}}}\textbf
+                                                  {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (192.95956pt too wide) in paragraph at lines 21--26
+[]\tenrm Our con-tact emails are mailto:ptaylor@taylorworld.oneptaylor@taylorwo
+rld.one. Or mailto:yossarian76543@yahoo.co.ukyossarian76543@yahoo.co.uk|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm O
+.\tenrm u
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+./Welcome-to-TaylorWorld.tex:27: Undefined control sequence.
+l.27 \textbf
+            {If you see this leaï¬‚et and you're interested in joining us for a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no € in font cmr10!
+./Welcome-to-TaylorWorld.tex:30: Undefined control sequence.
+l.30 }\href
+           {https://www.facebook.com/brobostigon/}{\emph{\emph{\textbf{https...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:30: Undefined control sequence.
+l.30 ...tps://www.facebook.com/brobostigon/}{\emph
+                                                  {\emph{\textbf{https://www...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:30: Undefined control sequence.
+l.30 ...www.facebook.com/brobostigon/}{\emph{\emph
+                                                  {\textbf{https://www.faceb...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:30: Undefined control sequence.
+l.30 ...book.com/brobostigon/}{\emph{\emph{\textbf
+                                                  {https://www.facebook.com/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Welcome-to-TaylorWorld.tex:30: Undefined control sequence.
+l.30 ...//www.facebook.com/brobostigon/}}}}\textbf
+                                                  {,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.37114pt too wide) in paragraph at lines 27--32
+\tenrm https://www.facebook.com/brobostigon/https://www.facebook.com/brobostigo
+n/, `Tay-lor-world Table-top RPG's' |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm h
+.\kern-0.27779
+.\tenrm t
+.\tenrm t
+.\tenrm p
+.etc.
+
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no € in font cmr10!
+)
+! Emergency stop.
+<*> Welcome-to-TaylorWorld.tex
+                              
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
