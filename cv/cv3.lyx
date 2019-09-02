@@ -1,0 +1,942 @@
+#LyX file created by tex2lyx 2.2
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin /home/ptaylor/tw-books/cv/
+\textclass book
+\begin_preamble
+,
+ left=20mm,
+ right=20mm,
+ bottom=20mm,
+ top=20mm,
+ }
+\usepackage{textcomp}
+
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package none
+\inputencoding utf8
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+Philip Taylor
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Flat 24, Town Centre House, Southam Road, Banbury, OX16 2BZ
+\end_layout
+
+\begin_layout Standard
+\align center
+Mobile: 07426 397240
+\end_layout
+
+\begin_layout Standard
+\align center
+Email: ptaylor@taylorworld.one 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Personal Profile:
+\series default
+ I am able to demonstrate with over eighteen years' experience in an IT environment and customer facing roles, extensive and broad IT knowledge and customer service skills and a high willingness to learn. My work experience demonstrates a consistently high level of punctuality, good communication skills as well as being a good team worker. I always work to ensure that tasks are completed on time and to a consistently high standard. 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Key Skills:
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+ IT:
+\end_layout
+
+\end_inset
+
+I have extensive IT skills with a variety of software and hardware knowledge. I have successfully completed IT training courses and I support others to effectively use technology
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+ Own initiative:
+\end_layout
+
+\end_inset
+
+I am able to work using my own initiative, effectively and efficiently working independently, planning my tasks for the day, under limited constraints, especially during busy periods as demonstrated in my previous retail roles especially with The Entertainer
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+ Team work:
+\end_layout
+
+\end_inset
+
+I am able to effectively and efficiently work in groups and support others, as demonstrated in all my previous work experience
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+ Languages:
+\end_layout
+
+\end_inset
+
+I have fluent German language skills, both written and verbal, after living in Germany for 11 years 
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Work History:
+\series default
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+15th - 23rd December 2018, Sainsburys/Adecco, Replenishment:
+\series default
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ Responsibilities include:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Replenishment of stock on the shop floor, while maintaining health and safety standards and doing correct date rotation on stock, and correct timed handling of frozen and chilled foods
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Management of stock in the warehouse, which includes returning unreplenished stock back into the warehouse 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+July 2018: Marks and Spencer's, Work experience:
+\series default
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ Responsibilities include:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Working in the food hall and men's clothing
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+In the food hall the main responsibilities included, bringing out new stock from the warehouse, maintaining standards on the shop floor, refreshing stock in the various sections on the shop floor, and date rotation of foods. In the men's clothing department the responsibilities included, maintaining standards on the shop floor, bringing out new stock for the shop floor and organizing it into the various sections and maintaining standards on the shop floor 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+2008 - Present: User Support Engineering:
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities include:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Supporting in my free time as a volunteer, users on both forums, irc and mailing lists who have problems and need support with Ubuntu, Debian, OpenBSD and Android, and other related technologies, which include SQL, postgresql and LaTeX/tex. Accurate and professional communication, typing and word processing skills. A broad range of knowledge and experience in a variety of different areas and able to demonstrate good problem solving skills 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+Jan 2017 – May 2017: The Entertainer: Sales Assistant
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities included:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Safely and efficiently sorting incoming stock into sections within the stock room in a timely and organised manner
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Keeping the shop floor and stock room tidy to ensure a high level of cleanliness
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Serving customers and assisting customers on the shop floor, providing a high level of customer care
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Demonstrating new toys to customers, while ensuring a high level of health and safety, to maximise sales 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+Aug 2016 - Dec 2016: Scope: Volunteer Retail Assistant
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities included:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Efficiently serving customers on the till, preparing and tagging stock accurately, and taking stock onto the shop floor while maintaining merchandising standards 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+Dec 2015: Shaw Trust: Volunteer Retail Assistant
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities as above. 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+Jul 2014 – February 2015: Blue Cross: Volunteer Retail Assistant
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities as above. 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+2003 – 2004: BTech: Systems Support and Maintenance Engineer
+\series default
+
+\end_layout
+
+\begin_layout Standard
+\align left
+Responsibilities included:
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Maintenance of staff computers as well as company servers to a high standard and in timely manner
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Installing new networking hardware and software and diagnosing network problems as they occur in a quick and efficient manner
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\bullet$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Troubleshooting desktop, server, software and network problems to set procedures, and fixing them while minimising interruption and downtime 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+ 
+\series bold
+Education and Training:
+\series default
+ 
+\end_layout
+
+\begin_layout Itemize
+Mar 2018: Activate Learning, Banbury and Bicester College 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Digital Literacy 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Jan 2018: E-Careers 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Level 3 Customer service diploma
+\end_layout
+
+\begin_layout Itemize
+Apple and Android App developer package
+\end_layout
+
+\begin_layout Itemize
+Basic accounting 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Oct 2017: Activate Learning, Banbury and Bicester College 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Level 1 Award in Personal Progression
+\end_layout
+
+\begin_layout Itemize
+food retail and customer service course
+\end_layout
+
+\begin_layout Itemize
+Waitrose Sector Based Work Academy 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2004: Sheffield College 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+CISCO IT Essentials 1 – OCR Level 2 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\begin_inset Separator plain
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+2000 – 2002: Dewsbury College 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+GNVQ Advanced ICT, A `Level 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\align left
+Educated in Germany for eleven years and achieved qualifications equivalent to 5 GCSE passes in various subjects. 
+\begin_inset Newline linebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+Interests:
+\series default
+ I am interested in physics and the sciences generally, the skills involved are both creative and imaginative, being a logical thinker and thinking out of the box and good mathematics skills. 
+\begin_inset Newline linebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+
+\series bold
+References are available upon request.
+\series default
+ 
+\end_layout
+
+\end_body
+\end_document
