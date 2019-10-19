@@ -1,3 +1,3 @@
 #!/bin/sh
-newsbeuter -u twbooks/urls
+newsbeuter -u ~/tw-books/urls
 
