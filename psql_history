@@ -50,7 +50,6 @@ select "first name", "middle name", surname, email, "mobile number", "post code"
 select "first name", "middle name", surname, email, "mobile number", "post code" from customers
 select * from products
 select "first name", "middle name", surname, email, "mobile number", "post code" from customers
-
 \d
 \d
 \l
@@ -72,4 +71,10 @@ select "cust-num", "first name", "middle name", surname, email, "mobile number",
 select * from products
 select * from orders
 select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\q
+select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+\c customerdb
+select "cust-num", "first name", "middle name", surname, email, "mobile number", "post code" from customers
+/q
+/quit
 \q
